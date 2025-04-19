@@ -2,8 +2,8 @@
 # Memento
 Memento is a cross-platform, offline, spaced-repetition learning application. It is made with the intent to be clean, simple to use and easily configurable to one's needs.
 
-# Video demonstration
-[Memento v0.5 PC - https://www.youtube.com/watch?v=YV9dPNs5yjI](https://www.youtube.com/watch?v=YV9dPNs5yjI)
+# Video demo:
+[![Video demo](https://img.youtube.com/vi/YV9dPNs5yjI/0.jpg)](https://www.youtube.com/watch?v=YV9dPNs5yjI)
 
 # Downloading Memrise courses
 To download a Memrise course and convert it to a Mememto-compatible format, you must run the Python script in the folder `helper_scripts`. This works best through a PC.
